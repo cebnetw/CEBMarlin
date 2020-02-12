@@ -1,5 +1,6 @@
 /**
- * Modified by Cam Berry 2/2/2020 for ender 3 with skr 1.3
+ * Modified by Cam Berry 2/2/2020 for ender 3 with skr 1.3 
+ * This is 2.0.x branch
  * Marlin 3D Printer Firmware
  * Copyright (c) 2019 MarlinFirmware [https://github.com/MarlinFirmware/Marlin]
  *
